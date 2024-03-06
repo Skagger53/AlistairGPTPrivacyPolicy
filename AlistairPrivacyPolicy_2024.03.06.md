@@ -23,4 +23,4 @@ This Privacy Policy governs the use of the 'Alistair' GPT developed by Matt Skag
 We reserve the right to update or change our Privacy Policy at any time. Your continued use of the service following the posting of any amendments to the Privacy Policy will be deemed your acceptance of those amendments.
 
 ## 7. Contact Information
-For any questions or concerns regarding this Privacy Policy, please contact us at 'matt@workflowsolutions.io'.
+For any questions or concerns regarding this Privacy Policy, please contact us at matt@workflowsolutions.io.
